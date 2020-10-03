@@ -16,4 +16,4 @@ Interactive examples of k-space encoding.
 # Run in Binder
 
 - MRI Contrast: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mriphysics/MRI_education/master?filepath=MRI_contrast.ipynb)
-- K-Space Encoding: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mriphysics/MRI_education/kspace_encoding?filepath=MRI_kspace_encoding.ipynb)
+- K-Space Encoding: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mriphysics/MRI_education/master?filepath=MRI_kspace_encoding.ipynb)
